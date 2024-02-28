@@ -2,7 +2,6 @@
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/ebac-white-letter.png">
     <source media="(prefers-color-scheme: light)" srcset="images/ebac-black-letter.png">
-    <img src="images/banner-ebac.png">
     </picture>
 </div>
 
